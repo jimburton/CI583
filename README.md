@@ -26,7 +26,7 @@ Work on the assignment and catch up with earlier exercises. Read the [MapReduce 
 
 ## Week 7
 
-Run the attached simulator for processes and deadlock and carry out the exercises.
+Run the attached [simulator](./simulators/deadlock/deadlock.zip) for processes and deadlock and carry out the [exercises](./simulators/deadlock/Deadlock-Simulator.pdf).
 
 ## Week 8
 
@@ -34,11 +34,11 @@ An exercise based on a scheduling simulator. https://github.com/jimburton/schedu
 
 ## Week 9
 
-Run the filesystem simulator attached and carry out the exercises
+Run the [filesystem simulator](./simulators/filesystem/filesys.zip) attached and carry out the [exercises](./simulators/filesystem/FileSystem-Simulator.pdf)
 
 ## Week 10
 
-Run the memory management simulator attached and carry out the exercises.
+Run the [memory management simulator](./simulators/memory/memory.zip) attached and carry out the [exercises](./simulators/memory/MemoryManagementSimulator.pdf).
 
 ## Week 11
 
